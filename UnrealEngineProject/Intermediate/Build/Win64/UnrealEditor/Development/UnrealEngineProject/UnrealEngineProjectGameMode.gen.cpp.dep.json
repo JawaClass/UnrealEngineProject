@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealengineproject\\uht\\unrealengineprojectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\intermediate\\build\\win64\\unrealengineprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\intermediate\\build\\win64\\unrealeditor\\development\\unrealengineproject\\definitions.unrealengineproject.h",
+            "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\source\\unrealengineproject\\unrealengineprojectgamemode.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealengineproject\\uht\\unrealengineprojectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

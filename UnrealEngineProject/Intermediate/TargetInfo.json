@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealEngineProject",
+			"Path": "C:\\Users\\masteroflich\\Documents\\GitHub\\UnrealEngineProject\\UnrealEngineProject\\Source\\UnrealEngineProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealEngineProjectEditor",
+			"Path": "C:\\Users\\masteroflich\\Documents\\GitHub\\UnrealEngineProject\\UnrealEngineProject\\Source\\UnrealEngineProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

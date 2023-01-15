@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\masteroflich\\Documents\\GitHub\\UnrealEngineProject\\UnrealEngineProject\\Source\\UnrealEngineProject\\UnrealEngineProject.Build.cs",
+		"C:\\Users\\masteroflich\\Documents\\GitHub\\UnrealEngineProject\\UnrealEngineProject\\Source\\UnrealEngineProject.Target.cs",
+		"C:\\Users\\masteroflich\\Documents\\GitHub\\UnrealEngineProject\\UnrealEngineProject\\Source\\UnrealEngineProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}

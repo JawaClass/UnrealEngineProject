@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealEngineProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEngineProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\UnrealEngineProject.init.gen.cpp.obj"
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\UnrealEngineProjectCharacter.gen.cpp.obj"
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\UnrealEngineProjectGameMode.gen.cpp.obj"
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\UnrealEngineProject.cpp.obj"
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\UnrealEngineProjectCharacter.cpp.obj"
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\UnrealEngineProjectGameMode.cpp.obj"
+"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\Default.rc2.res"
+/OUT:"C:\Users\masteroflich\Documents\GitHub\UnrealEngineProject\UnrealEngineProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEngineProject\UnrealEditor-UnrealEngineProject.lib"

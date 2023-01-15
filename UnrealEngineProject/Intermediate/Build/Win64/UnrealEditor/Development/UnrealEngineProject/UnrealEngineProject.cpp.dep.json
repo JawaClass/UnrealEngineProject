@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\source\\unrealengineproject\\unrealengineproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\intermediate\\build\\win64\\unrealengineprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\intermediate\\build\\win64\\unrealeditor\\development\\unrealengineproject\\definitions.unrealengineproject.h",
+            "c:\\users\\masteroflich\\documents\\github\\unrealengineproject\\unrealengineproject\\source\\unrealengineproject\\unrealengineproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
